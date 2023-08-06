@@ -44,6 +44,6 @@ Welcome to the Online Pharmacy Software Solution project! This project aims to d
 - **Database:** 
 ## Code Availability
 
-The project code is available in the GitHub repository.The repository is public; you can access the code and review the project's progress.
+The project code is available in the GitHub repository.The repository is public; you can access the code and review the project's progress.here is the link to observe the live project in browser:https://celestin25.github.io/myumuti/
 ## Authors
 Celestin HAKORIMANA(c.hakorimana@alustudent.com)
